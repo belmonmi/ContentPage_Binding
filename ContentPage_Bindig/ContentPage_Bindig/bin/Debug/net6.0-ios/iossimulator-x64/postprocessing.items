@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="ContentPage_Bindig.app/ContentPage_Bindig">
+      <BCSymbolMapName>ContentPage_Bindig.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>ContentPage_Bindig.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>obj\Debug\net6.0-ios\iossimulator-x64\mtouch-symbols.list</SymbolFile>
+      <DSymName>ContentPage_Bindig.app.dSYM</DSymName>
+      <SourceProjectPath>C:\Projects\git\GitHub\ContentPage_Bindig\ContentPage_Bindig</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>
